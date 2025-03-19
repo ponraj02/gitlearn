@@ -2,6 +2,6 @@ package com.example.gitlearnnew;
 
 public class MyBranchClass {
  public void hello() {
-	 System.out.println("Hi bro");
+	 System.out.println("Hi bro from master");
  }
 }
